@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@mercuryworkshop/wisp-js": "^1.1.2",
+    "@mercuryworkshop/wisp-js": "latest",
     "express": "^4.19.2"
   }
 }
